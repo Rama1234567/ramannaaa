@@ -5,7 +5,7 @@
     <groupId>com.amazonaws.samples</groupId>
     <artifactId>aws-java-sample</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>aws-java-sample</name>
     <url>http://aws.amazon.com/sdkforjava</url>
