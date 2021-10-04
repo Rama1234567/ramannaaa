@@ -38,7 +38,9 @@
          <failOnMissingWebXml>false</failOnMissingWebXml>
           </configuration>
                 </plugin>
-             
+             <build>
+                      <finalName>Ramohan</fileName>
+                 </build>
                 <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
